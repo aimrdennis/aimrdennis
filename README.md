@@ -57,7 +57,7 @@ Website: https://aimrdennis.com
 
 - Website: https://aimrdennis.com
 - Email: contact@aimrdennis.com
-- GitHub: https://github.com/AI-Mr-Dennis
+- GitHub: https://github.com/aimrdennis
 
 ---
 
